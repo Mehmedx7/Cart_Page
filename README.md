@@ -1,2 +1,2 @@
 # Cart_Page
-![ScreenShot](cart/images/Screenshot (2).png)
+![ScreenShot](Screenshot (2).png)
