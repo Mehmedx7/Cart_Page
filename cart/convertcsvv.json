@@ -1491,145 +1491,67 @@
     "iata_code": "BFN",
     "name": "Bloemfontein International Airport",
     "country_id": "ZA",
-    "city": "Bloemfontein Mohammed"
+    "city": "Bloemfontein"
   },
   {
     "iata_code": "BFS",
     "name": "Belfast International Airport",
     "country_id": "GB",
-    "city": "Antrim"
+    "city": "Belfast"
   },
   {
     "iata_code": "IAN",
     "name": "Bob Baker Memorial Airport",
     "country_id": "US",
-    "city": ""
+    "city": "Kiana"
   },
   {
     "iata_code": "SHX",
     "name": "Shageluk Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "KPH",
-    "name": "Pauloff Harbor SPB",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "AAG",
-    "name": "Arapoti",
-    "country_id": "BR",
-    "city": "Jaguariaiva"
+    "city": "Shageluk"
   },
   {
     "iata_code": "LUR",
     "name": "Cape Lisburne",
     "country_id": "US",
-    "city": ""
+    "city": "Cape Lisburne"
   },
   {
     "iata_code": "OME",
     "name": "Nome Airport",
     "country_id": "US",
-    "city": ""
+    "city": "Nome"
   },
   {
     "iata_code": "LMA",
     "name": "Lake Minchumina",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "VCB",
-    "name": "View Cove",
-    "country_id": "US",
-    "city": ""
+    "city": "Lake Minchumina"
   },
   {
     "iata_code": "OOK",
     "name": "Toksook Bay Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "KPK",
-    "name": "Parks SPB",
-    "country_id": "US",
-    "city": ""
+    "city": "Toksook Bay"
   },
   {
     "iata_code": "SMK",
     "name": "St. Michael Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "KUW",
-    "name": "Kugururok River",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "PTH",
-    "name": "Port Heiden",
-    "country_id": "US",
-    "city": ""
+    "city": "St. Michael"
   },
   {
     "iata_code": "PTU",
     "name": "Platinum Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "SKJ",
-    "name": "Sitkinak Cgs",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "VKW",
-    "name": "West Kavik",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "KPC",
-    "name": "Port Clarence",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "WDB",
-    "name": "Deep Bay",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "TGJ",
-    "name": "Tiga",
-    "country_id": "NC",
-    "city": "Tadine"
-  },
-  {
-    "iata_code": "CZO",
-    "name": "Chistochina",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "MLY",
-    "name": "Manley Hot Springs",
-    "country_id": "US",
-    "city": ""
+    "city": "Platinum"
   },
   {
     "iata_code": "MFA",
     "name": "Mafia",
     "country_id": "TZ",
-    "city": "Kilindoni"
+    "city": "Mafia"
   },
   {
     "iata_code": "MFE",
@@ -1638,436 +1560,142 @@
     "city": "McAllen"
   },
   {
-    "iata_code": "LYK",
-    "name": "Lunyuk",
-    "country_id": "ID",
-    "city": "Lunyuk Ode"
-  },
-  {
     "iata_code": "LYR",
     "name": "Svalbard Airport",
     "country_id": "SJ",
     "city": "Longyearbyen"
   },
   {
-    "iata_code": "LYU",
-    "name": "Ely",
-    "country_id": "US",
-    "city": "Ely"
-  },
-  {
-    "iata_code": "LYX",
-    "name": "London Ashford International (Ferryfield)",
-    "country_id": "GB",
-    "city": "Lydd"
-  },
-  {
-    "iata_code": "LZA",
-    "name": "Luiza",
-    "country_id": "CD",
-    "city": "Mwene-Ditu"
-  },
-  {
     "iata_code": "ORT",
     "name": "Northway",
     "country_id": "US",
-    "city": ""
+    "city": "Northway"
   },
   {
     "iata_code": "OTZ",
     "name": "Ralph Wien Memorial Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "AAO",
-    "name": "Anaco",
-    "country_id": "VE",
-    "city": "Anaco"
+    "city": "Kotzebue"
   },
   {
     "iata_code": "AAR",
-    "name": "Aarhus Airport",
+    "name": "Tirstrup Airport",
     "country_id": "DK",
-    "city": "Ebeltoft"
-  },
-  {
-    "iata_code": "AAV",
-    "name": "Allah Valley",
-    "country_id": "PH",
-    "city": "Surallah"
-  },
-  {
-    "iata_code": "NLG",
-    "name": "Nelson Lagoon",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "AAY",
-    "name": "Al Ghaydah",
-    "country_id": "YE",
-    "city": "Al Ghayzah"
+    "city": "Aarhus"
   },
   {
     "iata_code": "ACA",
-    "name": "Acapulco International Airport",
+    "name": "Alvarez International Airport",
     "country_id": "MX",
-    "city": "10 de Abril"
+    "city": "Acapulco"
   },
   {
     "iata_code": "ACH",
     "name": "Altenrhein Airport",
     "country_id": "CH",
-    "city": "Rheineck"
+    "city": "Altenrhein"
   },
   {
     "iata_code": "ACX",
     "name": "Xingyi Airport",
     "country_id": "CN",
-    "city": "Xinzhou"
+    "city": "Xingyi"
   },
   {
     "iata_code": "BFV",
     "name": "Buri Ram Airport",
     "country_id": "TH",
-    "city": "Satuek"
+    "city": "Buri Ram"
   },
   {
     "iata_code": "BGA",
     "name": "Palonegro International Airport",
     "country_id": "CO",
-    "city": "Lebrija"
-  },
-  {
-    "iata_code": "BGD",
-    "name": "Borger",
-    "country_id": "US",
-    "city": "Borger"
+    "city": "Bucakaramanga"
   },
   {
     "iata_code": "LSI",
     "name": "Sumburgh Airport",
     "country_id": "GB",
-    "city": ""
-  },
-  {
-    "iata_code": "FIC",
-    "name": "Fire Cove",
-    "country_id": "US",
-    "city": ""
+    "city": "Shetland"
   },
   {
     "iata_code": "RBY",
     "name": "Ruby Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "XEO",
-    "name": "Harbour",
-    "country_id": "GL",
-    "city": ""
-  },
-  {
-    "iata_code": "PFD",
-    "name": "Port Frederick",
-    "country_id": "US",
-    "city": ""
+    "city": "Ruby"
   },
   {
     "iata_code": "ABZ",
-    "name": "Aberdeen International Airport",
+    "name": "Dyce International Airport",
     "country_id": "GB",
-    "city": "Dyce"
-  },
-  {
-    "iata_code": "XLF",
-    "name": "Leaf Bay",
-    "country_id": "CA",
-    "city": ""
+    "city": "Aberdeen"
   },
   {
     "iata_code": "KSM",
     "name": "Saint Mary's Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "TKA",
-    "name": "Talkeetna",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "GBN",
-    "name": "San Giovanni Rotondo",
-    "country_id": "IT",
-    "city": ""
+    "city": "Saint Mary"
   },
   {
     "iata_code": "FYU",
     "name": "Fort Yukon Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "JNN",
-    "name": "Nanortalik",
-    "country_id": "GL",
-    "city": ""
-  },
-  {
-    "iata_code": "GAR",
-    "name": "Garaina",
-    "country_id": "PG",
-    "city": ""
+    "city": "Fort Yukon"
   },
   {
     "iata_code": "TNO",
-    "name": "Tamarindo",
+    "name": "Cabo Velas Airport",
     "country_id": "CR",
-    "city": "Santa Cruz"
-  },
-  {
-    "iata_code": "TNZ",
-    "name": "Tosontsengel",
-    "country_id": "MN",
-    "city": "Tosontsengel"
-  },
-  {
-    "iata_code": "TOB",
-    "name": "Tobruk",
-    "country_id": "LY",
-    "city": "Tobruk"
-  },
-  {
-    "iata_code": "BNM",
-    "name": "Bodinumu",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "BNZ",
-    "name": "Banz",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "BPD",
-    "name": "Bapi",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "CPN",
-    "name": "Cape Rodney",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "LZU",
-    "name": "Gwinnett County Airport",
-    "country_id": "US",
-    "city": "Suwanee"
-  },
-  {
-    "iata_code": "MBP",
-    "name": "Moyobamba",
-    "country_id": "PE",
-    "city": "Yorongos"
-  },
-  {
-    "iata_code": "MBQ",
-    "name": "Mbarara",
-    "country_id": "UG",
-    "city": "Mbarara"
+    "city": "Nicoya"
   },
   {
     "iata_code": "MBT",
     "name": "Masbate Airport",
     "country_id": "PH",
-    "city": "Tumalaytay"
-  },
-  {
-    "iata_code": "MBX",
-    "name": "Maribor International Airport",
-    "country_id": "SI",
-    "city": "Maribor"
-  },
-  {
-    "iata_code": "ACS",
-    "name": "Achinsk",
-    "country_id": "RU",
-    "city": "Achinsk"
-  },
-  {
-    "iata_code": "ACZ",
-    "name": "Zabol Airport",
-    "country_id": "IR",
-    "city": "Zabol"
+    "city": "Masbate"
   },
   {
     "iata_code": "AER",
     "name": "Sochi International Airport",
     "country_id": "RU",
-    "city": "Orel-Izumrud"
+    "city": "Adler"
   },
   {
     "iata_code": "AES",
     "name": "Vigra Alesund Airport",
     "country_id": "NO",
-    "city": "Valderoy"
-  },
-  {
-    "iata_code": "AFZ",
-    "name": "Sabzevar",
-    "country_id": "IR",
-    "city": "Sabzevar"
+    "city": "Aalesund"
   },
   {
     "iata_code": "AHO",
-    "name": "Alghero-Fertilia Airport",
+    "name": "Fertilia Airport",
     "country_id": "IT",
     "city": "Alghero"
   },
   {
-    "iata_code": "AHZ",
-    "name": "Alpe D Huez",
-    "country_id": "FR",
-    "city": "Huez"
-  },
-  {
     "iata_code": "AJL",
-    "name": "Aizawl Airport",
+    "name": "Lengpui Airport",
     "country_id": "IN",
-    "city": "Sairang"
-  },
-  {
-    "iata_code": "MIN",
-    "name": "Minnipa",
-    "country_id": "AU",
-    "city": "Streaky Bay"
-  },
-  {
-    "iata_code": "MIP",
-    "name": "Mitspeh Ramon",
-    "country_id": "IL",
-    "city": "Mitzpe Ramon"
+    "city": "Aizawl"
   },
   {
     "iata_code": "MIR",
     "name": "Habib Bourguiba International Airport",
     "country_id": "TN",
-    "city": "Sahline"
-  },
-  {
-    "iata_code": "MIT",
-    "name": "Kern County",
-    "country_id": "US",
-    "city": "Shafter"
+    "city": "Monastir"
   },
   {
     "iata_code": "SCC",
     "name": "Prudhoe Bay/Deadhorse Airport",
     "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "SLQ",
-    "name": "Sleetmute",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "YCI",
-    "name": "Caribou Island",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "MIW",
-    "name": "Municipal",
-    "country_id": "US",
-    "city": "Conrad"
-  },
-  {
-    "iata_code": "MJB",
-    "name": "Mejit Island",
-    "country_id": "MH",
-    "city": "Mejit"
-  },
-  {
-    "iata_code": "YCX",
-    "name": "Gagetown",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "YDI",
-    "name": "Davis Inlet",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "BNT",
-    "name": "Bundi",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "BOT",
-    "name": "Boset",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "YJO",
-    "name": "Johnny Mountain",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "YAV",
-    "name": "Miners Bay",
-    "country_id": "CA",
-    "city": ""
+    "city": "Prudhoe Bay/Deadhorse"
   },
   {
     "iata_code": "ELM",
     "name": "Elmira Corning Regional Airport",
     "country_id": "US",
-    "city": "Big Flats"
-  },
-  {
-    "iata_code": "QJE",
-    "name": "Heliport",
-    "country_id": "GL",
-    "city": ""
-  },
-  {
-    "iata_code": "MJC",
-    "name": "Man",
-    "country_id": "CI",
-    "city": "Man"
-  },
-  {
-    "iata_code": "KKD",
-    "name": "Kokoda",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "KUY",
-    "name": "Kamusi Airport",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "KWO",
-    "name": "Kawito",
-    "country_id": "PG",
-    "city": ""
+    "city": "Elmira Corning"
   },
   {
     "iata_code": "AKJ",
@@ -2076,28 +1704,16 @@
     "city": "Asahikawa"
   },
   {
-    "iata_code": "GEI",
-    "name": "Green Islands",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
     "iata_code": "HTI",
     "name": "Hamilton Island Airport",
     "country_id": "AU",
-    "city": ""
-  },
-  {
-    "iata_code": "RBH",
-    "name": "Brooks Lodge",
-    "country_id": "US",
-    "city": ""
+    "city": "Hamilton"
   },
   {
     "iata_code": "AKL",
     "name": "Auckland Airport",
     "country_id": "NZ",
-    "city": "Mangere"
+    "city": "Auckland"
   },
   {
     "iata_code": "MHT",
@@ -2106,196 +1722,76 @@
     "city": "Manchester"
   },
   {
-    "iata_code": "IHU",
-    "name": "Ihu",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "YRE",
-    "name": "Resolution Island",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "TQL",
-    "name": "Tarko-Sale",
-    "country_id": "RU",
-    "city": "Tarko-Sale"
-  },
-  {
-    "iata_code": "YSR",
-    "name": "Nanisivik",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "BPB",
-    "name": "Boridi",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
     "iata_code": "MJF",
     "name": "Kjaerstad Airport",
     "country_id": "NO",
     "city": "Mosjoen"
   },
   {
-    "iata_code": "YGS",
-    "name": "Germansen",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "BPK",
-    "name": "Biangabip",
-    "country_id": "PG",
-    "city": ""
-  },
-  {
-    "iata_code": "BTX",
-    "name": "Betoota",
-    "country_id": "AU",
-    "city": ""
-  },
-  {
     "iata_code": "BUC",
     "name": "Burketown",
     "country_id": "AU",
-    "city": ""
-  },
-  {
-    "iata_code": "AKT",
-    "name": "Raf Akrotiri",
-    "country_id": "CY",
-    "city": "Kolossi"
-  },
-  {
-    "iata_code": "BDW",
-    "name": "Bedford Downs",
-    "country_id": "AU",
-    "city": ""
+    "city": "Burketown"
   },
   {
     "iata_code": "BGM",
-    "name": "Greater Binghamton Airport",
+    "name": "Broome county Airport",
     "country_id": "US",
-    "city": "Johnson City"
-  },
-  {
-    "iata_code": "BGN",
-    "name": "Belaya Gora Airport",
-    "country_id": "RU",
-    "city": "Belaya Gora"
+    "city": "Binghamton"
   },
   {
     "iata_code": "BGO",
-    "name": "Bergen Airport",
+    "name": "Flesland Airport",
     "country_id": "NO",
-    "city": "Ytrebygda"
-  },
-  {
-    "iata_code": "BGS",
-    "name": "Webb AFB",
-    "country_id": "US",
-    "city": ""
-  },
-  {
-    "iata_code": "BGU",
-    "name": "Bangassou",
-    "country_id": "CF",
-    "city": ""
-  },
-  {
-    "iata_code": "BGV",
-    "name": "Bento Goncalves",
-    "country_id": "BR",
-    "city": "Bento Goncalves"
+    "city": "Bergen"
   },
   {
     "iata_code": "BVI",
     "name": "Birdsville",
     "country_id": "AU",
-    "city": ""
-  },
-  {
-    "iata_code": "YBI",
-    "name": "Black Tickle",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "MJG",
-    "name": "Mayajigua",
-    "country_id": "CU",
-    "city": "Venezuela"
-  },
-  {
-    "iata_code": "ZFL",
-    "name": "South Trout Lake",
-    "country_id": "CA",
-    "city": ""
-  },
-  {
-    "iata_code": "BLS",
-    "name": "Bollon",
-    "country_id": "AU",
-    "city": ""
+    "city": "Birdsville"
   },
   {
     "iata_code": "MJI",
-    "name": "Mitiga Tripoli Airport",
+    "name": "Mitiga Airport",
     "country_id": "LY",
-    "city": "Tagiura"
-  },
-  {
-    "iata_code": "MHW",
-    "name": "Monteagudo",
-    "country_id": "BO",
-    "city": "Monteagudo"
+    "city": "Tripoli"
   },
   {
     "iata_code": "YIO",
     "name": "Pond Inlet Airport",
     "country_id": "CA",
-    "city": ""
+    "city": "Pond Inlet"
   },
   {
     "iata_code": "MIA",
     "name": "Miami International Airport",
     "country_id": "US",
-    "city": "Virginia Gardens"
+    "city": "Miami"
   },
   {
     "iata_code": "EDA",
     "name": "Edna Bay",
     "country_id": "US",
-    "city": ""
+    "city": "Edna Bay"
   },
   {
     "iata_code": "GCI",
     "name": "Guernsey Airport",
     "country_id": "GG",
-    "city": ""
-  },
-  {
-    "iata_code": "AKW",
-    "name": "Aghajari",
-    "country_id": "IR",
-    "city": "Omidiyeh"
+    "city": "Guernsey"
   },
   {
     "iata_code": "TRS",
-    "name": "Trieste - Friuli Venezia Giulia Airport",
+    "name": "dei Legionari Airport",
     "country_id": "IT",
-    "city": "Ronchi dei Legionari"
+    "city": "Trieste"
   },
   {
     "iata_code": "LBV",
     "name": "Libreville Airport",
     "country_id": "GA",
-    "city": ""
+    "city": "Libreville"
   },
   {
     "iata_code": "TRV",
@@ -2311,27 +1807,9 @@
   },
   {
     "iata_code": "TSA",
-    "name": "Taipei Songshan Airport",
+    "name": "Songshan Airport",
     "country_id": "TW",
-    "city": "Taipei"
-  },
-  {
-    "iata_code": "TSB",
-    "name": "Tsumeb",
-    "country_id": "NA",
-    "city": "Tsumeb"
-  },
-  {
-    "iata_code": "TSC",
-    "name": "Taisha",
-    "country_id": "EC",
-    "city": "Taisha"
-  },
-  {
-    "iata_code": "TSD",
-    "name": "Tshipise",
-    "country_id": "ZA",
-    "city": "Messina"
+    "city": "Taipei Songshan"
   },
   {
     "iata_code": "TSE",
@@ -2343,19 +1821,19 @@
     "iata_code": "TBG",
     "name": "Tabubil Airport",
     "country_id": "PG",
-    "city": ""
+    "city": "Tabubil"
   },
   {
     "iata_code": "BQL",
     "name": "Boulia",
     "country_id": "AU",
-    "city": ""
+    "city": "Boulia"
   },
   {
     "iata_code": "GIC",
     "name": "Boigu Island",
     "country_id": "AU",
-    "city": ""
+    "city": "Boigu Island"
   },
   {
     "iata_code": "ALF",
@@ -2370,52 +1848,34 @@
     "city": "Albany"
   },
   {
-    "iata_code": "ANO",
-    "name": "Angoche",
-    "country_id": "MZ",
-    "city": ""
-  },
-  {
     "iata_code": "BEW",
     "name": "Beira Airport",
     "country_id": "MZ",
-    "city": ""
+    "city": "Beira"
   },
   {
     "iata_code": "BGW",
     "name": "Baghdad International Airport",
     "country_id": "IQ",
-    "city": "Abu Ghurayb"
-  },
-  {
-    "iata_code": "HBH",
-    "name": "Hobart Bay",
-    "country_id": "US",
-    "city": ""
+    "city": "Baghdad"
   },
   {
     "iata_code": "ISA",
     "name": "Mount Isa Airport",
     "country_id": "AU",
-    "city": ""
+    "city": "Mount Isa"
   },
   {
     "iata_code": "LRE",
     "name": "Longreach Airport",
     "country_id": "AU",
-    "city": ""
+    "city": "Longreach"
   },
   {
     "iata_code": "MYI",
     "name": "Murray Island",
     "country_id": "AU",
-    "city": ""
-  },
-  {
-    "iata_code": "MJL",
-    "name": "Mouila",
-    "country_id": "GA",
-    "city": "Mouila"
+    "city": "Murray Island"
   },
   {
     "iata_code": "BKO",
@@ -2424,28 +1884,10 @@
     "city": "Bamako"
   },
   {
-    "iata_code": "MJM",
-    "name": "Mbuji-Mayi",
-    "country_id": "CD",
-    "city": "Mbuji-Mayi"
-  },
-  {
-    "iata_code": "MIC",
-    "name": "Crystal",
-    "country_id": "US",
-    "city": "Brooklyn Center"
-  },
-  {
     "iata_code": "MID",
-    "name": "Manuel Crescencio Rejon International Airport",
+    "name": "Rejon International Airport",
     "country_id": "MX",
-    "city": "Itzincab Palomeque"
-  },
-  {
-    "iata_code": "KAH",
-    "name": "City Heliport",
-    "country_id": "AU",
-    "city": ""
+    "city": "Merada Mohammed"
   },
   {
     "iata_code": "LHG",
@@ -5262,12 +4704,6 @@
     "city": ""
   },
   {
-    "iata_code": "DJN",
-    "name": "Delta Junction",
-    "country_id": "US",
-    "city": ""
-  },
-  {
     "iata_code": "EFO",
     "name": "East Fork Airport",
     "country_id": "US",
@@ -7710,12 +7146,6 @@
     "city": "Energy"
   },
   {
-    "iata_code": "CNL",
-    "name": "Sindal",
-    "country_id": "DK",
-    "city": "Sindal"
-  },
-  {
     "iata_code": "CNQ",
     "name": "Camba Punta Airport",
     "country_id": "AR",
@@ -8829,12 +8259,6 @@
     "iata_code": "BJD",
     "name": "Bakkafjordur",
     "country_id": "IS",
-    "city": ""
-  },
-  {
-    "iata_code": "BOA",
-    "name": "Boma",
-    "country_id": "CD",
     "city": ""
   },
   {
@@ -12442,12 +11866,6 @@
     "name": "Nicosia International",
     "country_id": "CY",
     "city": "Kato Deftera"
-  },
-  {
-    "iata_code": "BMH",
-    "name": "Bomai",
-    "country_id": "PG",
-    "city": ""
   },
   {
     "iata_code": "NIX",
@@ -18480,12 +17898,6 @@
     "city": "Tianjiao"
   },
   {
-    "iata_code": "DSO",
-    "name": "Sondok",
-    "country_id": "KP",
-    "city": "Sinsang-ni"
-  },
-  {
     "iata_code": "DSS",
     "name": "Blaise Diagne International Airport",
     "country_id": "SN",
@@ -19635,12 +19047,6 @@
     "iata_code": "KWS",
     "name": "Kwailabesi Aerodrom",
     "country_id": "SB",
-    "city": ""
-  },
-  {
-    "iata_code": "SGB",
-    "name": "Singaua",
-    "country_id": "PG",
     "city": ""
   },
   {
