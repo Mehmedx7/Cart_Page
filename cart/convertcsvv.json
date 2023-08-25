@@ -15078,12 +15078,6 @@
     "city": "Carupano"
   },
   {
-    "iata_code": "CUR",
-    "name": "Curacao International Airport",
-    "country_id": "CW",
-    "city": "Sint Michiel Liber"
-  },
-  {
     "iata_code": "CUT",
     "name": "Cutral",
     "country_id": "AR",
@@ -20500,6 +20494,12 @@
     "name": "Changi International Airport",
     "country_id": "SG",
     "city": "Singapore"
+  },
+  {
+    "iata_code": "CUR",
+    "name": "Curacao International Airport",
+    "country_id": "CW",
+    "city": "Sint Michiel Liber"
   },
   {
     "iata_code": "SHA",
