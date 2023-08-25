@@ -20220,30 +20220,6 @@
     "city": "Shepparton"
   },
   {
-    "iata_code": "SHZ",
-    "name": "Seshutes",
-    "country_id": "LS",
-    "city": "Teyateyaneng"
-  },
-  {
-    "iata_code": "SIB",
-    "name": "Sibiti",
-    "country_id": "CG",
-    "city": "Sibiti"
-  },
-  {
-    "iata_code": "SIC",
-    "name": "Sinop Airport",
-    "country_id": "PA",
-    "city": "Sinop"
-  },
-  {
-    "iata_code": "SIE",
-    "name": "Sines",
-    "country_id": "PT",
-    "city": "Sines"
-  },
-  {
     "iata_code": "YGL",
     "name": "La Grande Airport",
     "country_id": "CA",
